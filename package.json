@@ -1,0 +1,20 @@
+{
+  "name": "fc-bot-detection",
+  "version": "1.0.0",
+  "description": "A project to process FIDs and check for hidden replies.",
+  "main": "main.js",
+  "scripts": {
+    "start": "ts-node main.ts"
+  },
+  "dependencies": {
+    "axios": "^1.2.0"
+  },
+  "devDependencies": {
+    "@types/axios": "^0.14.0",
+    "@types/node": "^18.0.0",
+    "ts-node": "^10.0.0",
+    "typescript": "^4.0.0"
+  },
+  "author": "",
+  "license": "ISC"
+}

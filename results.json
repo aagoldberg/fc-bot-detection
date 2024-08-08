@@ -1,0 +1,92 @@
+[
+  {
+    "fid": 230238,
+    "result": {}
+  },
+  {
+    "fid": 422233,
+    "result": {}
+  },
+  {
+    "fid": 1,
+    "result": {}
+  },
+  {
+    "fid": 389066,
+    "result": {}
+  },
+  {
+    "fid": 398688,
+    "result": {
+      "cast": {
+        "hash": "0x6bc19a385e7f7152410a00781cc18c84989caa30",
+        "threadHash": "0xce99caa8e85e7de4e946ec47ea30354443a63b9c",
+        "parentHash": "0xce99caa8e85e7de4e946ec47ea30354443a63b9c",
+        "parentAuthor": {
+          "fid": 5650,
+          "username": "vitalik.eth",
+          "displayName": "Vitalik Buterin",
+          "pfp": {
+            "url": "https://i.imgur.com/IzJxuId.jpg",
+            "verified": false
+          },
+          "profile": {
+            "bio": {
+              "text": "hullo",
+              "mentions": [],
+              "channelMentions": []
+            },
+            "location": {
+              "placeId": "",
+              "description": ""
+            }
+          },
+          "followerCount": 368256,
+          "followingCount": 73,
+          "activeOnFcNetwork": true
+        },
+        "author": {
+          "fid": 398688,
+          "username": "8386",
+          "displayName": "Mac",
+          "pfp": {
+            "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2c9c4301-0ac9-469a-840a-73e8ce3aad00/rectcrop3",
+            "verified": false
+          },
+          "profile": {
+            "bio": {
+              "text": "",
+              "mentions": [],
+              "channelMentions": []
+            },
+            "location": {
+              "placeId": "",
+              "description": ""
+            }
+          },
+          "followerCount": 14532,
+          "followingCount": 1070,
+          "activeOnFcNetwork": false
+        },
+        "text": "🧐",
+        "timestamp": 1722934586000,
+        "replies": {
+          "count": 0
+        },
+        "reactions": {
+          "count": 0
+        },
+        "recasts": {
+          "count": 0,
+          "recasters": []
+        },
+        "watches": {
+          "count": 0
+        },
+        "tags": [],
+        "quoteCount": 0,
+        "combinedRecastCount": 0
+      }
+    }
+  }
+]
